@@ -3,8 +3,6 @@
  This project will source data from three avenues.
  
  Wikipedia will be used to identify the largest metropolitan areas in the Midwestern United States based on gross population and population density.
-  Cities will be categorized by ranges of size.-----(https://en.wikipedia.org/wiki/List_of_Midwestern_metropolitan_areas)
+  Cities will be categorized by ranges of size.-----(https://en.wikipedia.org/wiki/List_of_Midwestern_urban_areas)
        
  The FourSquare API will be used to pull data on venues within each city to identify the most popular venues in each city for comparisons. 
- 
- Cognitive Class will be used to source GPS Coordinates of each city for clustering visualization.----(http://cocl.us/Geospatial_data)
