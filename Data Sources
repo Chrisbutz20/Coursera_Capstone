@@ -4,5 +4,8 @@
  
  Wikipedia will be used to identify the largest metropolitan areas in the Midwestern United States based on gross population and population density.
   Cities will be categorized by ranges of size.-----(https://en.wikipedia.org/wiki/List_of_Midwestern_urban_areas)
+  
+ GPS Coordinates will be sources from OpenDataSoft (a French Data Sharing Software company) from one of their many public reports.---------------------
+     https://public.opendatasoft.com/explore/dataset/osm-usa-municipalities/table/)
        
  The FourSquare API will be used to pull data on venues within each city to identify the most popular venues in each city for comparisons. 
